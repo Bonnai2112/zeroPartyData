@@ -1,0 +1,19 @@
+{
+  "name": "circuits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.0.3",
+    "circom_tester": "^0.0.20",
+    "circomlib": "^2.0.5",
+    "snarkjs": "^0.7.3",
+    "yarn": "^1.22.21"
+  }
+}
