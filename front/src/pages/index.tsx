@@ -9,7 +9,7 @@ export default function ZeroPartyData() {
         <div>
             <div className="flex items-center justify-center">
                 <div className="mx-5 mb-10 text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-sky-500 to-emerald-500 ">
-                    Zero Party Data NFT Elligibility
+                    Zero Party Data NFT Eligibility
                 </div>
             </div>
 
